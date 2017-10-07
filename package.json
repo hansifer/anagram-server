@@ -1,0 +1,18 @@
+{
+  "name": "anagram-server",
+  "version": "1.0.0",
+  "description": "Satisfy your daily anagram needs",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Hans Meyer",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "lodash.isarray": "^4.0.0",
+    "lodash.isfunction": "^3.0.8",
+    "lodash.isstring": "^4.0.1",
+    "pretty-hrtime": "^1.0.3",
+    "restify": "^6.0.1"
+  }
+}
